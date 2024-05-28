@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #51aec5;
+    text-align: left;
+}
+
+h1 {
+    color: #040000;
+    margin-top: 20px;
+}
+
+img {
+    border-radius: 70%;
+    margin: 20px auto;
+    width: 150px;
+    height: 150px;
+}
+
+dl {
+    background: #a2c4d8;
+    display: inline-block;
+    text-align: left;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 10px;
+}
+dd {
+    margin: 0 0 10px 0;
+}
